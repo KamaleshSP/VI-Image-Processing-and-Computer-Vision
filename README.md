@@ -1,7 +1,5 @@
-### Image Processing and Computer Vision
+# Image Processing and Computer Vision
 ## Semister 6
-
----
 
 ## Lab Index
 
@@ -11,8 +9,6 @@
 |  LAB2  | Geometric Primitives               | Image Resizing and Image Alterations                                        |
 |  LAB3  | Edge, Line, & Corner Detection     | Detection of Edge, Line, and Corner with the 6 types of Algorithms          |
 |  LABn  | To be Updated                      | To be Updated in upcooming labs                                             |
-
----
 
 # Author
 **Name:** Kamalesh S P<br>
